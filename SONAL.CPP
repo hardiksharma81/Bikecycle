@@ -11,7 +11,7 @@ initgraph(&gd,&gm,"c:\\turboc3\\bgi");
 while(1)
 {
 setcolor(4);
-line(0,400,640,400);
+line(0,400,640,400);//hcdhhuehduewh
 line(600,200,600,400);
 line(638,200,638,400);
 
